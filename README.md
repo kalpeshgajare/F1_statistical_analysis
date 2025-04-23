@@ -88,5 +88,8 @@ Train models using past data to predict future race results, such as who’s lik
 - Automate data updates with a web scraper or API:  
 Instead of manually downloading CSVs, use the Ergast API or a scraper to keep your dataset fresh with new races, standings, and stats.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+## 📄 License
+
+This project is licensed under the **MIT License**.  
+You are free to use, modify, and distribute this software for any purpose, with proper attribution.  
+See the [LICENSE](LICENSE) file for full details.
