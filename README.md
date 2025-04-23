@@ -19,6 +19,8 @@ The notebook `F1_statistical_analysis.ipynb` performs exploratory data analysis 
 - **NumPy** – for numerical computation
 - **Matplotlib & Seaborn** – for plotting and visualizations
 - **Jupyter Notebook** – for interactive analysis
+- **Scipy** - for statistics
+- **Sklearn** - for model selection
 
 ## 📦 Installation
 
